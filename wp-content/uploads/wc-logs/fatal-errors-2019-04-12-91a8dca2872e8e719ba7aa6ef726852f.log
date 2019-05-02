@@ -1,0 +1,8 @@
+2019-04-12T06:28:48+00:00 CRITICAL Call to undefined function is_search_page() in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\themes\redcarpetattire\header.php on line 181
+
+2019-04-12T10:47:29+00:00 CRITICAL Call to undefined method WP::query() in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\themes\redcarpetattire\woocommerce\content-product.php on line 71
+
+2019-04-12T10:48:28+00:00 CRITICAL Call to undefined method WP::get_results() in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\themes\redcarpetattire\woocommerce\content-product.php on line 71
+
+2019-04-12T11:12:24+00:00 CRITICAL Call to undefined function get_category_by_ID() in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\themes\redcarpetattire\woocommerce\archive-product.php on line 56
+

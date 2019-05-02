@@ -1,0 +1,14 @@
+2019-04-11T08:36:48+00:00 CRITICAL syntax error, unexpected 'substr' (T_STRING) in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\themes\redcarpetattire\footer.php on line 62
+
+2019-04-11T09:05:26+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 478
+
+2019-04-11T09:05:32+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 478
+
+2019-04-11T09:05:37+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 478
+
+2019-04-11T09:05:39+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 478
+
+2019-04-11T09:06:15+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 479
+
+2019-04-11T09:06:15+00:00 CRITICAL Cannot unset string offsets in D:\xampp\htdocs\sayan\redcarpetattire\wp-content\plugins\email-subscribers\classes\es-register.php on line 479
+

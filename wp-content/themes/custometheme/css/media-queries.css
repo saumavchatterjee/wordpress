@@ -1,0 +1,532 @@
+@media screen and (min-width:981px) and (max-width:1099px) {
+.th_left_1 {
+    margin: 0 30px 0 0;
+}
+.h_1 {
+    margin: 16px 0;
+    text-align: center;
+}
+#nav
+{
+	display:none;
+}	
+.banner {
+    min-height: auto;
+}
+.pert_1
+{
+	min-height:auto;
+}
+.p_2_1 {
+    height: 360px;
+}
+.p_2_2 {
+    height: 360px;
+}
+.p_2_3 {
+    height: 360px;
+	width: 35%;
+}
+.p_2_1_dec {
+    width: 77%;
+}
+.shp_1 {
+    margin: 61px 0 0 0;
+}
+.p_2_2_dec
+{
+	padding: 0 15px;
+}
+.shp_2 {
+    margin: 207px 0 0 0;
+}
+.shp_2 a {
+    padding: 12px 18px;
+}
+.p_2_3_dec {
+    width: 95%;
+    margin: 129px 0 0;
+}
+.p_2_3_dec h4 {
+    color: #fff;
+}
+.p_2_3_dec p {
+    color: #000;
+}
+.shp_3 {
+    margin: 64px 0 0 0;
+}
+.p_6 {
+    margin: 0 0 30px;
+}
+.p_7 h4 {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+}
+.p_7_in {
+    margin: 0 0 0 0;
+ 
+}
+.pert_7
+{
+	background-size: 100% 100%;
+min-height: auto;
+}
+.p_1_left h4 {
+    font-size: 33px;
+}
+.p_4 {
+    margin: 0 0 25px;
+}
+.pert_5
+{
+	min-height: auto;
+}
+.logo
+{
+	border-width: 0 0px 0 0px;
+}
+.in-ban-text {
+    top: 34px;
+    right: 2%;
+}
+.in-ban-text h4 {
+    font-size: 30px;
+}
+.sh {
+    width: 212px;
+}
+.s_btn_1 a
+{
+	padding: 8px 6px;
+}
+.s_btn_2 a
+{
+	padding: 10px 8px !important;
+}
+.product-type-simple .slick-active img
+{
+	max-width:100%;
+	width:auto !important;
+}
+.product .summary,.woocommerce-tabs,.related
+{
+	padding:0 15px;
+}
+	
+	
+}
+@media screen and (min-width:768px) and (max-width:980px) {
+.th_left_1 {
+    margin: 0 30px 0 0;
+}
+.h_1 {
+    margin: 16px 0;
+    text-align: center;
+}
+#nav
+{
+	display:none;
+}	
+.banner {
+    min-height: auto;
+}
+.pert_1
+{
+	min-height:auto;
+}
+.p_2_1 {
+    height: 360px;
+}
+.p_2_2 {
+    height: 360px;
+}
+.p_2_3 {
+    height: 360px;
+	width: 35%;
+}
+.p_2_1_dec {
+    width: 77%;
+}
+.shp_1 {
+    margin: 61px 0 0 0;
+}
+.p_2_2_dec
+{
+	padding: 0 15px;
+}
+.shp_2 {
+    margin: 207px 0 0 0;
+}
+.shp_2 a {
+    padding: 12px 18px;
+}
+.p_2_3_dec {
+    width: 95%;
+    margin: 129px 0 0;
+}
+.p_2_3_dec h4 {
+    color: #fff;
+}
+.p_2_3_dec p {
+    color: #000;
+}
+.shp_3 {
+    margin: 64px 0 0 0;
+}
+.p_6 {
+    margin: 0 0 30px;
+}
+.p_7 h4 {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+}
+.p_7_in {
+    margin: 0 0 0 0;
+ 
+}
+.pert_7
+{
+	background-size: 100% 100%;
+min-height: auto;
+}
+.p_1_left h4 {
+    font-size: 33px;
+}
+.p_4 {
+    margin: 0 0 25px;
+}
+.pert_5
+{
+	min-height: auto;
+}
+.logo
+{
+	border-width: 0 0px 0 0px;
+}
+.in-ban-text {
+    top: 34px;
+    right: 2%;
+}
+.in-ban-text h4 {
+    font-size: 30px;
+}
+.sh {
+    width: 212px;
+}
+.s_btn_1 a
+{
+	padding: 8px 6px;
+}
+.s_btn_2 a
+{
+	padding: 10px 8px !important;
+}
+.product-type-simple .slick-active img
+{
+	max-width:100%;
+	width:auto !important;
+}
+.product .summary,.woocommerce-tabs,.related
+{
+	padding:0 15px;
+}
+
+
+	
+}	
+@media screen and (min-width:481px) and (max-width:767px) {
+.th_left {
+    width: 100%;	
+}
+.th_left_1 {
+    margin: 0 20px 0 0;
+}
+.th_right {
+    float: left;
+}
+.th_right_1 {
+   margin: 0 20px 0 0;
+}
+.h_1 {
+    margin: 16px 0;
+    text-align: center;
+}
+#nav
+{
+	display:none;
+}	
+.banner {
+    min-height: auto;
+}
+.p_1_left {
+    width: 100%;
+	text-align: right;
+}
+.p_2_1 {
+    width: 100%;
+    height:480px;
+}
+.p_2_1_dec {
+    width: 100%;
+}
+.p_2_2 {
+    width: 100%;
+    height: 565px;
+    margin: 0 0 0 0;
+}
+.sp_1
+{
+	margin: 0px auto 30px;
+}
+.sp_3
+{
+	margin: 0px auto 30px;
+	float: none;
+}
+.p_9_heading h5 {
+    font-size: 20px;
+}
+.p_9_heading h4 {
+    font-size: 33px;
+}
+.p_8_heading p {
+    max-width: 100%;
+}
+.p_8_heading h4 {
+    font-size: 25px;
+}
+.p_2_3 {
+    width: 100%;
+}
+.p_2_3_dec {
+    width: 100%;
+	text-align:right;
+}
+.pert_7
+{
+	background:#000;
+}
+.p_1_more {
+    margin: 27px 0;
+}
+.sh {
+    float: none;
+    margin: 0 auto 30px;
+	overflow: hidden;
+}
+.shp_pic {
+    height: 286px;
+	overflow: hidden;
+}
+.p_1_right .owl-controls
+{
+	width: 100%;
+	left: 0;
+}
+.product .summary,.woocommerce-tabs,.related
+{
+	padding:0 15px;
+}
+.yith-wcwl-add-to-wishlist {
+    margin: 7px 0 40px 10px !important;
+}
+.shp_stock {
+    top: 257px;
+}
+.in-ban-text {
+    width: 52%;
+    top: 0;
+    right: 0;
+}
+.in_1
+{
+	display:none;
+}
+.in-ban-text h4 {
+    font-size: 28px;
+}
+.ip-1
+{
+	overflow:hidden;
+}
+.ip-2
+{
+	overflow:hidden;
+}
+.wpgs-for .draggable
+{
+	height: 250px;
+}
+.p_4 {
+
+    margin: 0 0 20px 0;
+}
+.p_6 {
+
+    margin: 0 0 20px 0;
+}
+.scl {
+    margin: 20px 0;
+}
+#customer_login #username
+{
+	height:40px;
+}
+#customer_login #password
+{
+	height:40px;
+}
+
+
+	
+}
+@media screen and (min-width:320px ) and (max-width:480px) {
+.th_left {
+    width: 100%;	
+}
+.th_left_1 {
+    margin: 0 20px 0 0;
+}
+.th_right {
+    float: left;
+}
+.th_right_1 {
+   margin: 0 20px 0 0;
+}
+.h_1 {
+    margin: 16px 0;
+    text-align: center;
+}
+#nav
+{
+	display:none;
+}	
+.banner {
+    min-height: auto;
+}
+.p_1_left {
+    width: 100%;
+	text-align: right;
+}
+.p_2_1 {
+    width: 100%;
+    height:480px;
+}
+.p_2_1_dec {
+    width: 100%;
+}
+.p_2_2 {
+    width: 100%;
+    height: 565px;
+    margin: 0 0 0 0;
+}
+.sp_1
+{
+	margin: 0px auto 30px;
+}
+.sp_3
+{
+	margin: 0px auto 30px;
+	float: none;
+}
+.p_9_heading h5 {
+    font-size: 20px;
+}
+.p_9_heading h4 {
+    font-size: 33px;
+}
+.p_8_heading p {
+    max-width: 100%;
+}
+.p_8_heading h4 {
+    font-size: 25px;
+}
+.p_2_3 {
+    width: 100%;
+}
+.p_2_3_dec {
+    width: 100%;
+	text-align:right;
+}
+.pert_7
+{
+	background:#000;
+}
+.p_1_more {
+    margin: 27px 0;
+}
+.sh {
+    float: none;
+    margin: 0 auto 30px;
+	overflow: hidden;
+}
+.shp_pic {
+    height: 286px;
+	overflow: hidden;
+}
+.p_1_right .owl-controls
+{
+	width: 100%;
+	left: 0;
+}
+.product .summary,.woocommerce-tabs,.related
+{
+	padding:0 15px;
+}
+.yith-wcwl-add-to-wishlist {
+    margin: 7px 0 40px 10px !important;
+}
+.shp_stock {
+    top: 257px;
+}
+.in-ban-text {
+    width: 52%;
+    top: 0;
+    right: 0;
+}
+.in_1
+{
+	display:none;
+}
+.in-ban-text h4 {
+    font-size: 28px;
+}
+.ip-1
+{
+	overflow:hidden;
+}
+.ip-2
+{
+	overflow:hidden;
+}
+.wpgs-for .draggable
+{
+	height: 250px;
+}
+.p_4 {
+
+    margin: 0 0 20px 0;
+}
+.p_6 {
+
+    margin: 0 0 20px 0;
+}
+.scl {
+    margin: 20px 0;
+}
+#customer_login #username
+{
+	height:40px;
+}
+#customer_login #password
+{
+	height:40px;
+}
+#customer_login #reg_email
+{
+	height:40px;
+}
+
+	
+}
